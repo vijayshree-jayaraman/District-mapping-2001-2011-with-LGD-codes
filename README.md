@@ -8,7 +8,7 @@ Sources for this mapping include district official websites and government notic
 
 2 - District concordance_with LGD codes parent
 This is an updated version of the previous file, where the new districts with LGD codes created after 2011 are mapped to the erstwhile districts as on 2011, thereby 2001 as well. Similar to the previous file, 
-this mapping is done only for districts which had a 1:1 match to an ersthwile district, those new districts created by combining blocks from multiple districts can be identified with `multiple' in place of their 2001, 2001 census codes. Additionally, this file has a column which states how the district was formed, this will come of use if you want to map districts with multiple parents to one of the parents. The comments are from either district official websites or government notices as reported by newpapers.
+this mapping is done only for districts which had a 1:1 match to an ersthwile district, those new districts created by combining blocks from multiple districts can be identified with `multiple' in place of their 2001, 2001 census codes. Additionally, this file has a column which states how the district was formed (if they were formed after 2011), this will come of use if you want to map districts with multiple parents to one of the parents. The comments are from either district official websites or government notices as reported by newpapers.
 
 Though India has more than 800 official districts as of September 2024, the latest LGD district document from the LGD website has codes mapped to 785 districts, which are covered by both these concordance files. 
 Hope this fetches you more leisure time :D
